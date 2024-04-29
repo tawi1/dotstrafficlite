@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+Welcome to DOTS Traffic Lite documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**DOTS Traffic Lite** is a tool for quickly creating performant city traffic.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+You can buy it from `Unity Asset Store`: `DOTS Traffic Lite <https://u3d.as/3ga4>`_
 
-.. note::
+`Youtube tutorial playlist. <https://www.youtube.com/playlist?list=PLk8IsonsJZcjhJBk95AVzuW8HVFYbPBME>`_
 
-   This project is under active development.
-
-Contents
---------
+Check out the :doc:`gettingstarted` section for more information, including
+how to :ref:`install` the project.
 
 .. toctree::
-
-   usage
-   api
+	:maxdepth: 1
+	:titlesonly:
+	
+   gettingstarted
+   road.rst
+   traffic.rst
+   player.rst
+   common.rst
+   testScenes.rst
+   sound.rst
+   integration.rst
+   debug.rst
+   glossary.rst
+   faq.rst
+   changelog.rst
